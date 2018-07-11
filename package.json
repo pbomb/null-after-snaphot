@@ -8,7 +8,7 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "test": "yarn kcd-scripts test"
+    "test": "yarn kcd-scripts test display"
   },
   "devDependencies": {
     "jest-glamor-react": "^4.3.1",

@@ -5,7 +5,7 @@ Reproduce null dom node after matching snapshot with jest-glamor-react
 ## Steps to reproduce
 
 Run `yarn test` which will run the jest test showing that `container.firstChild` is null after
-the snapshot is asserted.
+the snapshot is asserted and the errors output by React because of that.
 
 ## How to pinpoint jest-glamor-react being the issue
 
