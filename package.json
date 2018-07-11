@@ -1,0 +1,24 @@
+{
+  "name": "null-after-snaphot",
+  "version": "1.0.0",
+  "description": "Reproduce null dom node after matching snapshot with jest-glamor-react ",
+  "main": "src/display.js",
+  "repository": "https://github.com/pbomb/null-after-snaphot.git",
+  "author": "Matt Parrish <matt.parrish@workday.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "test": "yarn kcd-scripts test"
+  },
+  "devDependencies": {
+    "jest-glamor-react": "^4.3.1",
+    "kcd-scripts": "^0.39.2",
+    "react-testing-library": "^4.1.2"
+  },
+  "dependencies": {
+    "glamor": "^2.20.40",
+    "glamorous": "^4.13.1",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  }
+}

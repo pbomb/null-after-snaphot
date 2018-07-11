@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`container is not null after snapshot 1`] = `
+.css-0,
+[data-css-0] {
+  color: #000;
+  background-color: #fff;
+}
+
+<div
+  class="css-0"
+>
+  test text
+</div>
+`;
